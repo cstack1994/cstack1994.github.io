@@ -7,4 +7,4 @@ sitemap: false
 hide_last_modified: true
 ---
 
-Gitblog 첫 개설 시 문제가 발생한 내용은 아래와 같다.
+Gitblog 첫 개설 시 문제가 발생한 내용은 아래와
