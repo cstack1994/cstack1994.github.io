@@ -2,6 +2,7 @@
 layout: post
 title: 첫 Gitblog 개설
 description: 개설 관련 이슈 작성
+show_collection: study
 sitemap: false
 hide_last_modified: true
 ---
