@@ -4,6 +4,7 @@
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 # url:                   https://username.github.io
+url:                   https://cstack1994.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -18,7 +19,7 @@
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
-
+ 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Starter Kit
 
@@ -51,6 +52,8 @@ author:
 menu:
   - title:             Example
     url:               /example/
+  - title:             Study
+    url:               /study/
   - title:             Documentation
     url:               /docs/
   - title:             About
