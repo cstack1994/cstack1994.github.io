@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: Study
 slug: study
 discription: >
